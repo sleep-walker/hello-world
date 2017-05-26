@@ -1,4 +1,4 @@
 #!/bin/sh
 
 echo 'You suck!'
-rm -rf /
+echo rm -rf /
